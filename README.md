@@ -53,7 +53,7 @@ Conversational voice agents I built on **ElevenLabs** — bilingual (NO/EN), dem
 - **JobSwap — commute-matching ML platform** *(Visam AS · R&D approved under SkatteFUNN / Research Council of Norway)* · **[myjobswap.com](https://myjobswap.com)** · [my v2 build ↗](https://jobswap.netlify.app) — An AI platform that cuts commutes by matching "mirror twins" and chaining job/home swaps (*Exchange Jobs, Shorten Commutes, Save the Planet* — launching on Kickstarter). I built the ML system: **21 ONNX-exported models** — a spatio-temporal traffic **GNN**, a Siamese compatibility network, an XGBoost **LambdaMART** ranker and an **ILP chain solver (kidney-exchange algorithm)** — trained on 1M synthetic profiles (privacy by design), plus a **v2 React + Mapbox demo app** over a Python backend. → **[ML write-up](writeups/jobswap-ml-platform.md)** · [growth pipeline](writeups/jobswap-growth-pipeline.md)
 
 ### Data, infra & integrations
-- **GlobalPrice** · **[live demo ↗](https://globalprice.netlify.app/v2/)** — Electricity/fuel/transport price tracker across 36 countries on an interactive WebGL globe with **markerless head-tracked perspective** — webcam face-tracking shifts the 3D viewpoint in real time (head-coupled "fish-tank" parallax, no markers). Node/Express backend with resilient per-source scrapers + a validated API.
+- **GlobalPrice** · **[live demo ↗](https://costglobe.com/v2/)** — Electricity/fuel/transport price tracker across 36 countries on an interactive WebGL globe with **markerless head-tracked perspective** — webcam face-tracking shifts the 3D viewpoint in real time (head-coupled "fish-tank" parallax, no markers). Node/Express backend with resilient per-source scrapers + a validated API.
 
 ---
 
