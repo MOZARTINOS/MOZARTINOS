@@ -82,6 +82,6 @@ Conversational voice agents I built on **ElevenLabs** — bilingual (NO/EN), dem
 ---
 
 *Project Lead & Developer @ [Visam AS](https://visam.no), Innovation Park Stavanger — industrial, maritime & energy clients.*
-*Certified: Anthropic — Claude Code in Action (2026).*
+*Anthropic certified (2026): [Claude Code in Action](https://verify.skilljar.com/c/usmritsg3aoa) · [Claude Platform 101](https://verify.skilljar.com/c/rsugr5ke9w85) · [Claude Code 101](https://verify.skilljar.com/c/fikvzvsa4qxh) · [Claude 101](https://verify.skilljar.com/c/hkftpagc3of2).*
 
 <sub>Made with ♥ by Alexeev Digital Lab</sub>
