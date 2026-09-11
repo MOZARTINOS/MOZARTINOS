@@ -82,6 +82,6 @@ Conversational voice agents I built on **ElevenLabs** — bilingual (NO/EN), dem
 ---
 
 *Project Lead & Developer @ [Visam AS](https://visam.no), Innovation Park Stavanger — industrial, maritime & energy clients.*
-*Certified 2026. Anthropic: [Claude Code in Action](https://verify.skilljar.com/c/usmritsg3aoa) · [Claude Platform 101](https://verify.skilljar.com/c/rsugr5ke9w85) · [Claude Code 101](https://verify.skilljar.com/c/fikvzvsa4qxh) · [Claude 101](https://verify.skilljar.com/c/hkftpagc3of2). n8n: [n8n Quickstart](https://learn.n8n.io/certificates/8fa99871161d4190b2940d2c69a8fd47).*
+*Certified 2026. Anthropic: [Claude Code in Action](https://verify.skilljar.com/c/usmritsg3aoa) · [Claude Platform 101](https://verify.skilljar.com/c/rsugr5ke9w85) · [Claude Code 101](https://verify.skilljar.com/c/fikvzvsa4qxh) · [Claude 101](https://verify.skilljar.com/c/hkftpagc3of2). n8n: [n8n Quickstart](https://learn.n8n.io/certificates/8fa99871161d4190b2940d2c69a8fd47) · [Essentials: Your First Workflows](https://learn.n8n.io/certificates/2862ffa0f3f6458ca174e9cc0f3ce0a8) · [Integrations: APIs & Connected Workflows](https://learn.n8n.io/certificates/f8adbe7720134ee8ba670f19bc04d81e).*
 
 <sub>Made with ♥ by Alexeev Digital Lab</sub>
